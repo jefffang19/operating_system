@@ -1,0 +1,3 @@
+hw2
+https://www.geeksforgeeks.org/operating-system-dining-philosopher-problem-using-semaphores/
+https://web.mst.edu/~ercal/284/ThreadExamples/Thread-phil.c
